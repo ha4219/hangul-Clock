@@ -27,7 +27,7 @@
 
 > HANGUL-CLOCK
 
-## 🪧 Brochure
+## 🪧 [Brochure](https://github.com/ha4219/hangul-clock/blob/main/assets/18101269_poster.pdf)
 ![Poster](https://github.com/ha4219/hangul-clock/blob/main/assets/18101269_poster.png?raw=true)
 
 > Logisim으로 구현한 한글 시계입니다.
@@ -50,7 +50,7 @@
 
 
 ## Reference
-- [시계 Logic](https://murcielrago.tistory.com/entry...)
+- [참고한 blog](https://murcielrago.tistory.com/entry/%EB%94%94%EC%A7%80%ED%84%B8%ED%81%B4%EB%9D%BD-%EB%94%94%EC%A7%80%ED%84%B8%EC%8B%9C%EA%B3%84-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%9E%90%EB%A3%8C)
 - [아이디어](https://hangulclock.today/)
 
 ## 📄 License
