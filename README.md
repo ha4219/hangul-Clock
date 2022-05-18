@@ -16,6 +16,7 @@
 - [Skill](#-skill)
 - [Example](#-example)
 - [Report](#-report)
+- [Reference](#-reference)
 - [License](#-license)
 
 
@@ -45,8 +46,12 @@
 
 
 
-## 📋 [report](https://github.com/ha4219/hangul-clock/blob/main/assets/18101269_report.md)
+## 📋 [Report](https://github.com/ha4219/hangul-clock/blob/main/assets/18101269_report.md)
 
+
+## Reference
+- [시계 Logic](https://murcielrago.tistory.com/entry...)
+- [아이디어](https://hangulclock.today/)
 
 ## 📄 License
 This Project is MIT licensed, as found in the LICENSE file.
